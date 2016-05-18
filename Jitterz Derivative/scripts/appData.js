@@ -10,27 +10,27 @@ var AppData = function() {
     
 	_initialCards = [
 		{
-			"cardNumber":"461253932",
-			"amount":20,
+			"cardNumber":"461253955",
+			"amount":210,
 			"bonusPoints":60,
-			"expireDate":"2013/12/06"
+			"expireDate":"2015/12/06"
 		},{
-			"cardNumber":"723128745",
-			"amount":76,
+			"cardNumber":"7231287453",
+			"amount":733,
 			"bonusPoints":22,
-			"expireDate":"2014/10/16"
+			"expireDate":"2015/10/16"
 		},{
-			"cardNumber":"912472185",
-			"amount":104,
+			"cardNumber":"91247225",
+			"amount":1334,
 			"bonusPoints":56,
-			"expireDate":"2014/11/24"
+			"expireDate":"2015/11/24"
 		}
 	];
     
 	_announcements = [
 		{ title: "Holiday Drinks Are Here", description: "Enjoy your favorite holiday drinks, like Pumpkin Spice Lattes.", url: "images/holiday.png" },
 		{ title: "Register & Get Free Drinks", description: "Register any Jitterz card and start earning rewards like free drinks. Sign-up now.", url: "images/rewards.png" },
-		{ title: "Cheers to Another Year", description: "Raise a cup of bold and spicy Jitterz Anniversary Blend.", url: "images/cheers.png" },
+		{ title: "Cheers to AAR Year", description: "Raise a cup of bold and spicy Jitterz Anniversary Blend.", url: "images/cheers.png" },
 		{ title: "Hot Drinks Anytime", description: "Find and enjoy our, hot drinks anytime.", url: "images/hot-drink.png" },
 		{ title: "Friend and Love", description: "Get more for your friends.Get Love.", url: "images/love-friend.png" },
 		{ title: "Wide range of choice", description: "Raise a cup of bold and spicy Jitterz Anniversary Blend.", url: "images/best-coffee.png" }
