@@ -1,0 +1,11 @@
+title: Jitterz Coffee House
+slug: sample-jitterz
+page_title: Jitterz Coffee House | Apache Cordova Sample | Telerik Platform
+description: This demo app shows how to create a payment and reward management app for regular customers using Kendo UI and the Google Maps JavaScript API.
+tags: Kendo UI, Google Maps API, iOS, Android, Windows Phone, Apache Cordova, hybrid development, JavaScript, MVVM, view, layout, template, navbar, tabstrip, button
+publish: true
+content_filter: true
+apis: kendo.mvvm kendo.observableObject kendo.application kendo.templates kendo.layout kendo.view kendo.tabStrip kendo.navBar kendo.button kendo.listView kendo.actionSheet kendo.backButton kendo.buttonGroup cordova.geolocation cordova.splashscreen cordova.localStorage google.maps
+related_resources:
+- "[Create from Sample](http://docs.telerik.com/platform/appbuilder/cordova/creating-your-app/clone-from-sample)"
+- "[Running Hybrid Apps on Devices](http://docs.telerik.com/platform/appbuilder/cordova/running-on-devices/working-with-devices)"
